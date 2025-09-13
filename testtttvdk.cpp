@@ -25,6 +25,6 @@ void loop() {
     Serial.print(t);
     Serial.println("C");
   }
-
+  delay(100);
   delay(2000); // Đợi 2 giây
 }
